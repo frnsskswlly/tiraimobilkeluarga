@@ -1,6 +1,6 @@
 <script>
     import "../app.css"
-    let src = 'src/images/logo-artha.png';
+    let src = '/siang.jpg';
 </script>
 
 <div class="grid place-items-center text-[#111827] fixed top-0 left-0 right-0 md:w-[100%] z-50">
